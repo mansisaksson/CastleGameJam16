@@ -6,5 +6,5 @@ Quite happy with how this turned out. The combination of VR and scary wolves is 
 
 A built verson of the game can be found under the Releases tab (Requires a VR headset to play)
 
-![Image of Yaktocat](https://nextcloud.mansisaksson.com:1443/index.php/s/cMfWnL58ad9WH6g/preview)
-![Image of Yaktocat](https://nextcloud.mansisaksson.com:1443/index.php/s/WbbsC4xW5nb8Yme/preview)
+![Image of Yaktocat](https://raw.githubusercontent.com/mansisaksson/CastleGameJam16/master/Docs/banner1.png)
+![Image of Yaktocat](https://raw.githubusercontent.com/mansisaksson/CastleGameJam16/master/Docs/banner2.png)
